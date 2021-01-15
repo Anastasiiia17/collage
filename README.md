@@ -1,2 +1,2 @@
 # collage
-Hello World. It's first repository
+It's first repository 
